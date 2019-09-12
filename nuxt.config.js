@@ -2,8 +2,8 @@ const webpack = require('webpack')
 
 module.exports = {
   env: {
-    apiUrl: 'http://api.zdmcloud.com:8090', // 后端api接口地址
-    homeUrl: 'http://zdmcloud.com' //前端域名
+    apiUrl: 'http://api.zdmcloud.com', // 后端api接口地址
+    homeUrl: 'http://www.zdmcloud.com' //前端域名
   },
   /*
   ** Headers of the page
@@ -81,6 +81,6 @@ module.exports = {
     '@nuxtjs/proxy'
   ],
   proxy: [
-    ['/api', { target: 'http://api.zdmcloud.com:8090' }]
+    ['/api', { target: 'http://api.zdmcloud.com' }]
   ]
 }

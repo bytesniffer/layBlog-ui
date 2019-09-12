@@ -2,7 +2,7 @@ import axios from 'axios'
 
 let options = {}
 if (process.server) {
-  options.baseURL = process.env.apiUrl
+  options.baseURL = 'http://api.zdmcloud.com'
 }
 
 export default axios.create(options)
