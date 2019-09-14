@@ -59,7 +59,7 @@
         </div>
       </el-col>
     </el-row>
-    <div class="footer">京ICP备180398**号</div>
+    <div class="footer">知云网络</div>
   </div>
 </template>
 <script>
