@@ -44,7 +44,7 @@ export default {
         },
         {
           name: "keywords",
-          content: "layBlog-ui|博客|新媒体"
+          content: "玩转公有云|博客|新媒体"
         }
       ]
     };
