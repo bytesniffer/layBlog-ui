@@ -31,7 +31,7 @@ export default {
   name: "latestArticles",
   head() {
     return {
-      title: "layBlog-ui 更好的博客系统，致力于商业级新媒体网站开发",
+      title: "玩转公有云",
       meta: [
         {
           name: "viewport",
@@ -40,7 +40,7 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: "layBlog-ui 更好的博客系统，致力于商业级新媒体网站开发"
+          content: "玩转公有云"
         },
         {
           name: "keywords",

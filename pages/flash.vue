@@ -30,17 +30,17 @@ export default {
   head() {
     return {
       title:
-        "layBlog-ui 更好的博客系统，致力于商业级新媒体网站开发",
+        "玩转公有云",
       meta: [
         {
           hid: "description",
           name: "",
-          content: `layBlog-ui 更好的博客系统，致力于商业级新媒体网站开发`
+          content: `玩转公有云`
         },
         {
           name: "keywords",
           content:
-            "layBlog-ui 更好的博客系统，致力于商业级新媒体网站开发。"
+            "玩转公有云。"
         }
       ]
     };
